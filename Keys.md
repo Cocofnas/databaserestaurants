@@ -13,6 +13,7 @@ mood:
 "Calm"
 "Trendy"
 "High- end"
+"Vegan option"
 
 occasion:
 When you want to:

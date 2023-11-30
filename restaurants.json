@@ -1118,7 +1118,7 @@
 },
 
 { 
-    "restaurantID": "68", 
+    "restaurantID": "81", 
     "restaurantName": "Thaiboat",
     "address": "123 Culinary Road",
     "city": "Gastronomy City",
@@ -1130,4 +1130,46 @@
     "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
     "url": "http://www.gourmethaven.com"
 },
+
+{ 
+    "restaurantID": "82", 
+    "restaurantName": "Ramblas",
+    "address": "123 Culinary Road",
+    "city": "Gastronomy City",
+    "country": "Flavorland",
+    "borough": "Taste District",
+    "cuisine": "International Fusion",
+    "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
+    "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
+    "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
+    "url": "http://www.gourmethaven.com"
+},
+
+{ 
+    "restaurantID": "83", 
+    "restaurantName": "Bleck",
+    "address": "123 Culinary Road",
+    "city": "Gastronomy City",
+    "country": "Flavorland",
+    "borough": "Taste District",
+    "cuisine": "International Fusion",
+    "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
+    "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
+    "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
+    "url": "http://www.gourmethaven.com"
+},
+
+{ 
+    "restaurantID": "84", 
+    "restaurantName": "Rost",
+    "address": "123 Culinary Road",
+    "city": "Gastronomy City",
+    "country": "Flavorland",
+    "borough": "Taste District",
+    "cuisine": "International Fusion",
+    "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
+    "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
+    "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
+    "url": "http://www.gourmethaven.com"
+}
   ]
