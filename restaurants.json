@@ -12,7 +12,7 @@
       "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
       "url": "http://www.gourmethaven.com"
     },
-    
+
     {
     "restaurantID":"2",
       "restaurantName": "Coup detat",
@@ -365,7 +365,7 @@
 
     {
         "restaurantID": "27",
-        "restaurantName": "Adam & Albin matstudio",
+        "restaurantName": "Ling Long",
         "address": "123 Culinary Road",
         "city": "Gastronomy City",
         "country": "Flavorland",
@@ -435,7 +435,7 @@
 
       { 
         "restaurantID": "32", 
-      "restaurantName": "Brasseriet" ,
+      "restaurantName": "Brasseri Balzac" ,
       "address": "123 Culinary Road",
         "city": "Gastronomy City",
         "country": "Flavorland",
@@ -449,7 +449,7 @@
 
       { 
         "restaurantID": "33", 
-      "restaurantName": "Meat on a stick",
+      "restaurantName": "Meat on a stick vasastan",
       "address": "123 Culinary Road",
         "city": "Gastronomy City",
         "country": "Flavorland",
@@ -936,7 +936,7 @@
     },
 
     { 
-        "restaurantID": "68", 
+    "restaurantID": "68", 
     "restaurantName": "EatNam",
     "address": "123 Culinary Road",
     "city": "Gastronomy City",
@@ -950,7 +950,7 @@
 },
 
 { 
-    "restaurantID": "69", 
+"restaurantID": "69", 
 "restaurantName": "Plais",
 "address": "123 Culinary Road",
 "city": "Gastronomy City",
@@ -961,5 +961,173 @@
 "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
 "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
 "url": "http://www.gourmethaven.com"
-}
+},
+
+{ 
+    "restaurantID": "70", 
+    "restaurantName": "Tjoget",
+    "address": "123 Culinary Road",
+    "city": "Gastronomy City",
+    "country": "Flavorland",
+    "borough": "Taste District",
+    "cuisine": "International Fusion",
+    "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
+    "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
+    "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
+    "url": "http://www.gourmethaven.com"
+},
+
+{ 
+    "restaurantID": "71", 
+    "restaurantName": "Barrels bysistorg",
+    "address": "123 Culinary Road",
+    "city": "Gastronomy City",
+    "country": "Flavorland",
+    "borough": "Taste District",
+    "cuisine": "International Fusion",
+    "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
+    "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
+    "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
+    "url": "http://www.gourmethaven.com"
+},
+
+{ 
+    "restaurantID": "72", 
+    "restaurantName": "Stigbergets fot",
+    "address": "123 Culinary Road",
+    "city": "Gastronomy City",
+    "country": "Flavorland",
+    "borough": "Taste District",
+    "cuisine": "International Fusion",
+    "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
+    "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
+    "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
+    "url": "http://www.gourmethaven.com"
+},
+
+{ 
+    "restaurantID": "73", 
+    "restaurantName": "Koh Phangan söder",
+    "address": "123 Culinary Road",
+    "city": "Gastronomy City",
+    "country": "Flavorland",
+    "borough": "Taste District",
+    "cuisine": "International Fusion",
+    "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
+    "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
+    "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
+    "url": "http://www.gourmethaven.com"
+},
+
+{ 
+    "restaurantID": "74", 
+    "restaurantName": "Gazza",
+    "address": "123 Culinary Road",
+    "city": "Gastronomy City",
+    "country": "Flavorland",
+    "borough": "Taste District",
+    "cuisine": "International Fusion",
+    "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
+    "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
+    "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
+    "url": "http://www.gourmethaven.com"
+},
+
+{ 
+    "restaurantID": "75", 
+    "restaurantName": "Älskade traditioner",
+    "address": "123 Culinary Road",
+    "city": "Gastronomy City",
+    "country": "Flavorland",
+    "borough": "Taste District",
+    "cuisine": "International Fusion",
+    "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
+    "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
+    "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
+    "url": "http://www.gourmethaven.com"
+},
+
+{ 
+    "restaurantID": "76", 
+    "restaurantName": "Ingers kitchen",
+    "address": "123 Culinary Road",
+    "city": "Gastronomy City",
+    "country": "Flavorland",
+    "borough": "Taste District",
+    "cuisine": "International Fusion",
+    "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
+    "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
+    "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
+    "url": "http://www.gourmethaven.com"
+},
+
+{ 
+    "restaurantID": "77", 
+    "restaurantName": "Surfers",
+    "address": "123 Culinary Road",
+    "city": "Gastronomy City",
+    "country": "Flavorland",
+    "borough": "Taste District",
+    "cuisine": "International Fusion",
+    "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
+    "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
+    "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
+    "url": "http://www.gourmethaven.com"
+},
+
+{ 
+    "restaurantID": "78", 
+    "restaurantName": "B.A.R. Blasieholmen",
+    "address": "123 Culinary Road",
+    "city": "Gastronomy City",
+    "country": "Flavorland",
+    "borough": "Taste District",
+    "cuisine": "International Fusion",
+    "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
+    "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
+    "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
+    "url": "http://www.gourmethaven.com"
+},
+
+{ 
+    "restaurantID": "79", 
+    "restaurantName": "Take Ramen",
+    "address": "123 Culinary Road",
+    "city": "Gastronomy City",
+    "country": "Flavorland",
+    "borough": "Taste District",
+    "cuisine": "International Fusion",
+    "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
+    "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
+    "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
+    "url": "http://www.gourmethaven.com"
+},
+
+{ 
+    "restaurantID": "80", 
+    "restaurantName": "Farang",
+    "address": "123 Culinary Road",
+    "city": "Gastronomy City",
+    "country": "Flavorland",
+    "borough": "Taste District",
+    "cuisine": "International Fusion",
+    "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
+    "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
+    "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
+    "url": "http://www.gourmethaven.com"
+},
+
+{ 
+    "restaurantID": "68", 
+    "restaurantName": "Thaiboat",
+    "address": "123 Culinary Road",
+    "city": "Gastronomy City",
+    "country": "Flavorland",
+    "borough": "Taste District",
+    "cuisine": "International Fusion",
+    "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
+    "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
+    "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
+    "url": "http://www.gourmethaven.com"
+},
   ]
