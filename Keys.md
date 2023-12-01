@@ -14,6 +14,7 @@ mood:
 "Trendy"
 "High- end"
 "Vegan option"
+ "Extended dining hours"
 
 occasion:
 When you want to:
