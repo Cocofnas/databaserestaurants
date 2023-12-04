@@ -452,338 +452,338 @@
     {
         "restaurantID": "31",
         "restaurantName": "Flickorna Helin",
-        "address": "123 Culinary Road",
-        "zipcode": "",
+        "address": "Rosendalsvägen 14",
+        "zipcode": "11521",
         "city": "Stockholm",
       "country": "Sweden",
       "borough": "Djurgården",
-        "cuisine": "International Fusion",
+        "cuisine": "Scandinavian and baked goods",
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "http://www.flickornahelin.se/"
       },
 
       { 
         "restaurantID": "32", 
       "restaurantName": "Brasseri Balzac" ,
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Odengatan 26",
+      "zipcode": "11351",
       "city": "Stockholm",
       "country": "Sweden",
-      "borough": "Vasastan",
-        "cuisine": "International Fusion",
+      "borough": "Norrmalm",
+        "cuisine": "French",
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://www.balzac.se/"
       },
 
       { 
         "restaurantID": "33", 
       "restaurantName": "Meat on a stick vasastan",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Roslagsgatan 6",
+      "zipcode": "11355",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Vasastan",
-        "cuisine": "International Fusion",
+        "cuisine": "Middle eastern mostly kebab",
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://www.meatonastick.se/"
       },
 
       { 
         "restaurantID": "34", 
       "restaurantName": "Totemo ramen",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Sankt Eriksgatan 70",
+      "zipcode": "11320",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Vasastan",
-        "cuisine": "International Fusion",
+        "cuisine": "Japanese",
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://www.totemoramen.com/"
      },
 
       { 
         "restaurantID": "35", 
-      "restaurantName": "Ai ramen",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "restaurantName": "Ai ramen Sofia",
+      "address": "Erstagatan 22",
+      "zipcode": "11636",
         "city": "Stockholm",
         "country": "Sweden",
         "borough": "Södermalm",
-      "cuisine": "International Fusion",
+      "cuisine": "Japanese",
       "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
       "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
       "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-      "url": "http://www.gourmethaven.com"
+      "url": "https://www.airamen.se/sofia"
     },
 
       { 
         "restaurantID": "36", 
       "restaurantName": "Bird city",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Regeringsgatan 89",
+      "zipcode": "11139",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Norrmalm",
-      "cuisine": "International Fusion",
+      "cuisine": "International , all dishes contain chicken",
       "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
       "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
       "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-      "url": "http://www.gourmethaven.com"
+      "url": "https://www.birdsthlm.com/"
      },
 
       { 
         "restaurantID": "37", 
       "restaurantName": "Agnes",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Norra Agnégatan 43",
+      "zipcode": "11129",
         "city": "Stockholm",
         "country": "Sweden",
         "borough": "Kungsholmen",
-      "cuisine": "International Fusion",
+      "cuisine": "Scandinavian",
       "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
       "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
       "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-      "url": "http://www.gourmethaven.com"
+      "url": "https://restaurangagnes.com/"
     },
 
       { 
         "restaurantID": "38", 
-      "restaurantName": "Le Nom",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "restaurantName": "Copine",
+      "address": "Kommendörsgatan 23",
+      "zipcode": "11448",
         "city": "Stockholm",
         "country": "Sweden",
         "borough": "Vasastan",
-      "cuisine": "International Fusion",
+      "cuisine": "Scandinavian and mediterranean",
       "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
       "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
       "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-      "url": "http://www.gourmethaven.com"
+      "url": "https://www.jimjacobrestauranger.se/copine"
      },
 
       { 
         "restaurantID": "39", 
       "restaurantName": "Indio kitchen",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Kocksgatan 52",
+      "zipcode": "11629",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Södermalm",
-      "cuisine": "International Fusion",
+      "cuisine": "Japanese and peruvian fusion",
       "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
       "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
       "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-      "url": "http://www.gourmethaven.com"
+      "url": "http://indio.se/kitchen/"
     },
 
       { 
         "restaurantID": "40", 
       "restaurantName": "Thongwiset",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Hornsgatan 85",
+      "zipcode": "11726",
         "city": "Stockholm",
         "country": "Sweden",
         "borough": "Södermalm",
-        "cuisine": "International Fusion",
+        "cuisine": "Thai",
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://thongwiset.se/kontakt-thongwiset/"
       },
 
       { 
         "restaurantID": "41", 
       "restaurantName": "Racamaca" ,
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Wollmar Yxullsgatan 5B",
+      "zipcode": "11850",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Södermalm",
-        "cuisine": "International Fusion",
+        "cuisine": "Spanish",
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://racamaca496907102.wordpress.com/"
       },
 
       { 
         "restaurantID": "42", 
-      "restaurantName": "Usine il roi" ,
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "restaurantName": "Bistro 38" ,
+      "address": "Södermalmsallén 38",
+      "zipcode": "11828",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Södermalm",
-        "cuisine": "International Fusion",
+        "cuisine": "Scandinavian",
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://www.usine.se/index.php?Plats=1"
       },
 
       { 
         "restaurantID": "43", 
-      "restaurantName": "Meno male Södermalm" ,
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "restaurantName": "Meno male Mariatorger" ,
+      "address": "Krukmakargatan 1",
+      "zipcode": "11851",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Södermalm",
-        "cuisine": "International Fusion",
+        "cuisine": "Italian  mostly pizza",
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://www.menomale.se/"
       },
 
       { 
         "restaurantID": "44", 
       "restaurantName": "Sushi Oi" ,
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Karlavägen 36",
+      "zipcode": "11449",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Östermalm",
-        "cuisine": "International Fusion",
+        "cuisine": "Sushi",
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://sushioi.se/"
       },
 
       { 
         "restaurantID": "45", 
       "restaurantName": "Greasy spoon södermalm" ,
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Tjärhovsgatan 19",
+      "zipcode": "11628",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Södermalm",
-        "cuisine": "International Fusion",
+        "cuisine": "English and american breakfast and brunch",
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://greasyspoon.se/"
       },
 
       { 
         "restaurantID": "46", 
       "restaurantName": "Tapir" ,
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Skeppargatan 18",
+      "zipcode": "11452",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Östermalm",
-        "cuisine": "International Fusion",
+        "cuisine": "French and scandinavian",
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://www.restaurangtapir.se/"
       },
 
       { 
         "restaurantID": "47", 
-      "restaurantName": "Adria",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "restaurantName": "Adria ristorante och bar",
+      "address": "Tulegatan 10",
+      "zipcode": "11353",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Vasastan",
-        "cuisine": "International Fusion",
+        "cuisine": "Italian",
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://www.adriaristorante.se/"
       },
 
       { 
         "restaurantID": "48", 
       "restaurantName": "Café Koya" ,
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Gästrikegatan 3",
+      "zipcode": "11362",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Vasastan",
-        "cuisine": "International Fusion",
+        "cuisine": "Japanese, baked goods",
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://cafekoya.se/"
       },
 
       { 
         "restaurantID": "49", 
       "restaurantName": "Eataly",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Biblioteksgatan 5",
+      "zipcode": "11144",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Östermalm",
-        "cuisine": "International Fusion",
+        "cuisine": "Italian",
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://www.eataly.se/"
       },
 
       { 
         "restaurantID": "50", 
       "restaurantName": "Tak",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Brunkebergstorg 4",
+      "zipcode": "11151",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Norrmalm",
-      "cuisine": "International Fusion",
+      "cuisine": "Japanese",
       "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
       "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
       "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-      "url": "http://www.gourmethaven.com"
+      "url": "https://tak.se/en/"
      },
 
       { 
         "restaurantID": "51", 
       "restaurantName": "800 grader",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Sigtunagatan 17",
+      "zipcode": "11362",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Vasastan",
-        "cuisine": "International Fusion",
+        "cuisine": "Italian  mostly pizza",
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://800grader.se/"
       },
 
       { 
         "restaurantID": "52", 
       "restaurantName": "Madam",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Tjärhovsgatan 5",
+      "zipcode": "11621",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Södermalm",
-        "cuisine": "International Fusion",
+        "cuisine": "Korean",
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://madamsthlm.se/"
       },
 
       { 
         "restaurantID": "53", 
       "restaurantName": "Las Brasas",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Roslagsgatan 6",
+      "zipcode": "11355",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Vasastan",
@@ -791,29 +791,29 @@
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://www.lasbrasas.se/"
       },
 
       { 
         "restaurantID": "54", 
         "restaurantName": "Pat's place",
-        "address": "123 Culinary Road",
-        "zipcode": "",
+        "address": "Folkungagatan 140",
+        "zipcode": "11630",
         "city": "Stockholm",
         "country": "Sweden",
         "borough": "Södermalm",
-        "cuisine": "International Fusion",
+        "cuisine": "Thai",
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://www.patsplace.se/"
       },
 
       { 
         "restaurantID": "55", 
       "restaurantName": "Hantverket",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Sturegatan 15",
+      "zipcode": "11436",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Östermalm",
@@ -821,14 +821,14 @@
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://restauranghantverket.se/"
       },
 
       { 
         "restaurantID": "56", 
       "restaurantName": "Doma",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Nybrogatan 48",
+      "zipcode": "11440",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Östermalm",
@@ -836,14 +836,14 @@
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://www.doma.se/restaurangen/"
       },
 
       { 
         "restaurantID": "57", 
       "restaurantName": "Bar Doma",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Nybrogatan 48",
+      "zipcode": "11440",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Östermalm",
@@ -851,14 +851,14 @@
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://www.doma.se/baren/"
       },
 
       { 
        "restaurantID": "58", 
       "restaurantName": "Chelas",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Verkstadsgatan 4",
+      "zipcode": "11736",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Södermalm",
@@ -866,37 +866,37 @@
       "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
       "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
       "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-      "url": "http://www.gourmethaven.com"
+      "url": "https://www.chelas.se/"
     },
 
       { 
         "restaurantID": "59", 
       "restaurantName": "Greasy spoon vasastan",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Hagagatan 4",
+      "zipcode": "11348",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Vasastan",
-      "cuisine": "International Fusion",
+      "cuisine": "English and american breakfast and brunch",
       "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
       "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
       "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-      "url": "http://www.gourmethaven.com"
+      "url": "https://greasyspoon.se/"
     },
 
       { 
         "restaurantID": "60", 
       "restaurantName": "Spanjorskan",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Nybrogatan 42",
+      "zipcode": "11440",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Östermalm",
-      "cuisine": "International Fusion",
+      "cuisine": "Spanish",
       "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
       "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
       "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-      "url": "http://www.gourmethaven.com"
+      "url": "https://spanjorskan.se/en/"
     },
       { 
         "restaurantID": "61", 
@@ -906,7 +906,7 @@
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Vasastan",
-      "cuisine": "International Fusion",
+      "cuisine": "Scandinavian and great coffee",
       "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
       "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
       "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
@@ -921,7 +921,7 @@
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Södermalm",
-      "cuisine": "International Fusion",
+      "cuisine": "Scandinavian and great coffee",
       "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
       "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
       "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
@@ -930,68 +930,68 @@
       { 
         "restaurantID": "63", 
       "restaurantName": "Bastard burgers Södermalm",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "S:t Paulsgatan 2",
+      "zipcode": "11846",
       "city": "Stockholm",
         "country": "Sweden",
         "borough": "Södermalm",
-      "cuisine": "International Fusion",
+      "cuisine": "Hamburgers",
       "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
       "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
       "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-      "url": "http://www.gourmethaven.com"
+      "url": "https://bastardburgers.com/se/restaurants/st-pauls/"
      },
 
       { 
         "restaurantID": "64",
       "restaurantName": "Brödernas Telefonplan",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "LM Ericssons väg 26",
+      "zipcode": "12626",
       "city": "Stockholm",
         "country": "Sweden",
         "borough": "Telefonplan",
-      "cuisine": "International Fusion",
+      "cuisine": "Hamburgers",
       "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
       "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
       "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-      "url": "http://www.gourmethaven.com"
+      "url": "https://www.brodernas.nu/restauranger/"
     },
 
       {
         "restaurantID": "65",
         "restaurantName": "Krubb Telefonplan",
-        "address": "123 Culinary Road",
-        "zipcode": "",
+        "address": "Telefonvägen 22A",
+        "zipcode": "12626",
         "city": "Stockholm",
         "country": "Sweden",
         "borough": "Telefonplan",
-        "cuisine": "International Fusion",
+        "cuisine": "Hamburgers",
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://krubbburgers.se/"
       },
 
       {
         "restaurantID": "66",
         "restaurantName": "Monster chicken",
-        "address": "123 Culinary Road",
-        "zipcode": "",
+        "address": "Ringvägen 106",
+        "zipcode": "1166",
         "city": "Stockholm",
         "country": "Sweden",
         "borough": "Södermalm",
-        "cuisine": "International Fusion",
+        "cuisine": "Hamburgers with an asian twist",
         "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
         "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
         "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-        "url": "http://www.gourmethaven.com"
+        "url": "https://www.instagram.com/monsterchicken_sthlm/"
       },
 
       { 
         "restaurantID": "67", 
       "restaurantName": "Bistro Tegelbruket",
-      "address": "123 Culinary Road",
-      "zipcode": "",
+      "address": "Tegelbruksvägen 2",
+      "zipcode": "12632",
       "city": "Stockholm",
       "country": "Sweden",
       "borough": "Midsommarkransen",
@@ -999,59 +999,59 @@
       "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
       "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
       "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-      "url": "http://www.gourmethaven.com"
+      "url": "https://bistrotegelbruket.se/"
     },
 
     { 
     "restaurantID": "68", 
     "restaurantName": "EatNam Södermalm",
-    "address": "123 Culinary Road",
-    "zipcode": "",
+    "address": "S:t Paulsgatan 2",
+    "zipcode": "11846",
     "city": "Stockholm",
     "country": "Sweden",
     "borough": "Södermalm",
-    "cuisine": "International Fusion",
+    "cuisine": "Vietnamese",
     "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
     "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
     "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-    "url": "http://www.gourmethaven.com"
+    "url": "https://eatnam.se/"
 },
 
 { 
 "restaurantID": "69", 
 "restaurantName": "Plais",
-"address": "123 Culinary Road",
-"zipcode": "",
+"address": "Högbergsgatan 62",
+"zipcode": "11854",
 "city": "Stockholm",
 "country": "Sweden",
 "borough": "Södermalm",
-"cuisine": "International Fusion",
+"cuisine": "French",
 "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
 "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
 "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-"url": "http://www.gourmethaven.com"
+"url": "https://plais.se/"
 },
 
 { 
     "restaurantID": "70", 
     "restaurantName": "Tjoget",
-    "address": "123 Culinary Road",
-    "zipcode": "",
+    "address": "Hornsbruksgatan 24",
+    "zipcode": "11734",
     "city": "Stockholm",
 "country": "Sweden",
 "borough": "Södermalm",
-    "cuisine": "International Fusion",
+    "cuisine": "Scandinavian",
     "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
     "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
     "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-    "url": "http://www.gourmethaven.com"
+    "url": "https://tjoget.com/"
 },
 
 { 
     "restaurantID": "71", 
-    "restaurantName": "Barrels bysistorg",
-    "address": "123 Culinary Road",
-    "zipcode": "",
+    "restaurantName": "Apex x Barrels",
+    "address": "Bysistorget 4",
+    "zipcode": "11821",
     "city": "Stockholm",
 "country": "Sweden",
 "borough": "Södermalm",
@@ -1059,29 +1059,29 @@
     "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
     "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
     "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-    "url": "http://www.gourmethaven.com"
+    "url": "https://barrels.se/"
 },
 
 { 
     "restaurantID": "72", 
     "restaurantName": "Stigbergets fot",
-    "address": "123 Culinary Road",
-    "zipcode": "",
+    "address": "Götgatan 5",
+    "zipcode": "11622",
     "city": "Stockholm",
 "country": "Sweden",
 "borough": "Södermalm",
-    "cuisine": "International Fusion",
+    "cuisine": "Hamburgers",
     "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
     "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
     "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-    "url": "http://www.gourmethaven.com"
+    "url": "https://stigbergetsfot.se/"
 },
 
 { 
     "restaurantID": "73", 
     "restaurantName": "Koh Phangan söder",
-    "address": "123 Culinary Road",
-    "zipcode": "",
+    "address": "Skånegatan 57",
+    "zipcode": "11637",
     "city": "Stockholm",
     "country": "Sweden",
     "borough": "Södermalm",
@@ -1089,14 +1089,14 @@
     "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
     "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
     "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-    "url": "http://www.gourmethaven.com"
+    "url": "https://kohphangan.se/sodermalm/"
 },
 
 { 
     "restaurantID": "74", 
     "restaurantName": "Gazza",
-    "address": "123 Culinary Road",
-    "zipcode": "",
+    "address": "Hornsgatan 66",
+    "zipcode": "11821",
     "city": "Stockholm",
     "country": "Sweden",
     "borough": "Södermalm",
@@ -1104,22 +1104,22 @@
     "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
     "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
     "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-    "url": "http://www.gourmethaven.com"
+    "url": "https://gazzasthlm.se/"
 },
 
 { 
     "restaurantID": "75", 
     "restaurantName": "Älskade traditioner",
-    "address": "123 Culinary Road",
-    "zipcode": "",
+    "address": "Södermannagatan 42",
+    "zipcode": "11640",
     "city": "Stockholm",
     "country": "Sweden",
     "borough": "Södermalm",
-    "cuisine": "International Fusion",
+    "cuisine": "Scandinavian and lots of waffles",
     "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
     "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
     "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-    "url": "http://www.gourmethaven.com"
+    "url": "https://www.alskadetraditioner.se/"
 },
 
 { 
@@ -1130,7 +1130,7 @@
     "city": "Stockholm",
     "country": "Sweden",
     "borough": "Norrmalm",
-    "cuisine": "International Fusion",
+    "cuisine": "Chinese",
     "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
     "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
     "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
@@ -1140,31 +1140,31 @@
 { 
     "restaurantID": "77", 
     "restaurantName": "Surfers",
-    "address": "123 Culinary Road",
-    "zipcode": "",
+    "address": "Norrlandsgatan 24",
+    "zipcode": "11143",
     "city": "Stockholm",
     "country": "Sweden",
     "borough": "Östermalm",
-    "cuisine": "International Fusion",
+    "cuisine": "Asian",
     "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
     "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
     "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-    "url": "http://www.gourmethaven.com"
+    "url": "https://www.surfersstockholm.se/"
 },
 
 { 
     "restaurantID": "78", 
     "restaurantName": "B.A.R. Blasieholmen",
-    "address": "123 Culinary Road",
-    "zipcode": "",
+    "address": "Blasieholmsgatan 4A",
+    "zipcode": "11148",
     "city": "Stockholm",
     "country": "Sweden",
     "borough": "Blasieholmen",
-    "cuisine": "International Fusion",
+    "cuisine": "Scandinavian with a speciality for fish and shellfish",
     "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
     "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
     "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
-    "url": "http://www.gourmethaven.com"
+    "url": "https://restaurangbar.se/"
 },
 
 { 
@@ -1273,7 +1273,7 @@
 
 { 
     "restaurantID": "86", 
-    "restaurantName": "Aloë",
+    "restaurantName": "Chez Rinos",
     "address": "Svartlösavägen 52",
     "zipcode": "12533",
     "city": "Stockholm",
@@ -1299,5 +1299,65 @@
     "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
     "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
     "url": "https://restaurang-esperanza.se"
+},
+
+{ 
+    "restaurantID": "87", 
+    "restaurantName": "Garaget restaurang",
+    "address": "",
+    "zipcode": "",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "borough": "Älvsjö",
+    "cuisine": "Scandinavian",
+    "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
+    "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
+    "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
+    "url": "https://sv-se.facebook.com/garagetrestaurang/"
+},
+
+{ 
+    "restaurantID": "88", 
+    "restaurantName": "Tre Vänner",
+    "address": "Midsommarparken 2",
+    "zipcode": "12634",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "borough": "Midsommarkransen",
+    "cuisine": "Scandinavian",
+    "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
+    "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
+    "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
+    "url": "https://www.tre-vanner.se/"
+},
+
+{ 
+    "restaurantID": "89", 
+    "restaurantName": "Vassa Eggen",
+    "address": "Birger Jarlsgatan 29",
+    "zipcode": "11145",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "borough": "Norrmalm",
+    "cuisine": "Steakhouse",
+    "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
+    "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
+    "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
+    "url": "https://www.vassaeggen.com/"
+},
+
+{ 
+    "restaurantID": "90", 
+    "restaurantName": "Berns asiatiska",
+    "address": "Berzeli park",
+    "zipcode": "10327",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "borough": "Östermalm",
+    "cuisine": "Asian",
+    "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
+    "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
+    "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
+    "url": "https://berns.se/sv/restaurants/berns-asiatiska/"
 }
   ]
