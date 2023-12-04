@@ -15,12 +15,13 @@ mood:
 "High- end",
 "Vegan option",
  "Extended dining hours",
+ "Romantic"
 
 occasion:
 When you want to:
 "Have cinner with the in-laws",
 "Have a sunday funday aka brunch",
-"breakup with someone aka "the Diego",
+"breakup with someone aka "the Diego"",
 "have dinner with kids present",
 "have dinner with your bestie",
 "have dinner with friends to catch- up",

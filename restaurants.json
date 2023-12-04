@@ -38,9 +38,22 @@
       "country": "Sweden",
       "borough": "Östermalm",
       "cuisine": "French- persian",
-      "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
-      "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
-      "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
+      "occasion": ["Have cinner with the in-laws",
+      "have dinner with your bestie",
+      "have dinner with friends to catch- up",
+      "have dinner with the whole family",
+      "have dinner with your parents",
+      "impress your date and the sky is the limit",
+      "celebrate a relatonship anniversary",
+      "celebrate you turning 28 again (honey, you ain't fooling anyone)"
+      ],
+      "mood": ["Cozy",
+      "Soft- spoken",
+      "Intimate",
+      "Sophisticated",
+      "Family friendly", "Romantic",
+      "Calm"],
+      "description": "If you like to try new things and to share dishes with others in a cozy setting, this is the place for you. The venue is amazing, the food awesome and it is suitable for both dating, familydinner and taking your bestie out",
       "url": "https://www.coupdetat.se"
     },
 
@@ -53,8 +66,19 @@
       "country": "Sweden",
       "borough": "Axelsberg",
       "cuisine": "Carribean",
-      "occasion": ["Fine Dining", "Casual Dining", "Special Events"],
-        "mood": ["Elegant and Sophisticated", "Relaxed", "Romantic"],
+      "occasion": [
+      "breakup with someone aka "the Diego"",
+      "have dinner with kids present",
+      "have dinner with your bestie",
+      "have dinner with friends to catch- up",
+      "have dinner with the whole family",
+      "have dinner with your parents"
+      ],
+        "mood": [
+        "Soft- spoken",
+        "Casual",
+        "Family friendly",
+        "Kid friendly"],
       "description": "A place where culinary dreams come true, offering a unique fusion of flavors from around the world.",
       "url": "https://www.islandhoppers.se"
     },
