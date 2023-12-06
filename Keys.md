@@ -1,6 +1,6 @@
 occasion:
 When you want to:
-"Have cinner with the in-laws",
+"Have dinner with the in-laws",
 "Have a sunday funday aka brunch",
 "breakup with someone aka \"the Diego\"",
 "have dinner with kids present",
