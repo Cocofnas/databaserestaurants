@@ -1,3 +1,22 @@
+occasion:
+When you want to:
+"Have cinner with the in-laws",
+"Have a sunday funday aka brunch",
+"breakup with someone aka \"the Diego\"",
+"have dinner with kids present",
+"have dinner with your bestie",
+"have dinner with friends to catch- up",
+"say Cheers- a classic swedish after work",
+"have dinner with colleagues",
+"have dinner with the whole family",
+"have dinner with your parents",
+"impress your date and the sky is the limit",
+"impress your date on a tight budget",
+"celebrate a relatonship anniversary",
+"celebrate you turning 28 again (honey, you ain't fooling anyone)",
+"have a meparty aka dinner for one",
+"go on a nice date with that special someone"
+
 mood:
 "Cozy",
 "Good lighting",
@@ -17,22 +36,6 @@ mood:
  "Extended dining hours",
  "Romantic"
 
-occasion:
-When you want to:
-"Have cinner with the in-laws",
-"Have a sunday funday aka brunch",
-"breakup with someone aka "the Diego"",
-"have dinner with kids present",
-"have dinner with your bestie",
-"have dinner with friends to catch- up",
-"say Cheers- a classic swedish after work",
-"have dinner with colleagues",
-"have dinner with the whole family",
-"have dinner with your parents",
-"impress your date and the sky is the limit",
-"impress your date on a tight budget",
-"celebrate a relatonship anniversary",
-"celebrate you turning 28 again (honey, you ain't fooling anyone)",
-"have a meparty aka dinner for one",
+
 
 https://forms.gle/HJpcyFnJx1GtboHSA
