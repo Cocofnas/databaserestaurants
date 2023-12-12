@@ -12,7 +12,7 @@ When you want to:
 "have dinner with your parents",
 "impress your date and the sky is the limit",
 "impress your date on a tight budget",
-"celebrate a relatonship anniversary",
+"celebrate a relationship anniversary",
 "celebrate you turning 28 again (honey, you ain't fooling anyone)",
 "have a meparty aka dinner for one",
 "go on a nice date with that special someone"
@@ -30,8 +30,6 @@ mood:
 "Kid friendly",
 "Dog friendly",
 "Calm",
-"Trendy",
-"High- end",
 "Vegan option",
  "Extended dining hours",
  "Romantic"
